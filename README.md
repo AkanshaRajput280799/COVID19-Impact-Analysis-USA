@@ -8,10 +8,11 @@ The COVID-19 outbreak placed immense strain on the U.S. healthcare system, alrea
 <img width="524" alt="image" src="https://github.com/user-attachments/assets/32e3d8b9-ecec-405b-9af5-a5c4044d94c1">
 
 # Technologies Used
-- **Python** (for data analysis and machine learning)
+-**Excel**:for data cleaning, descriptive statistics, data analysis
+- **Python**: for data analysis and machine learning
 - **Libraries**: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Jupyter Notebooks** for implementing models
-- **Tableau** for visualization
+- **Jupyter Notebooks**: for implementing models
+- **Tableau**: for visualization
 
 # Dataset
 The dataset was obtained from the U.S. Department of Health and Human Services. You can find the dataset https://catalog.data.gov/dataset/conditions-contributing-to-deaths-involving-coronavirus-disease-2019-covid-19-by-age-group .
