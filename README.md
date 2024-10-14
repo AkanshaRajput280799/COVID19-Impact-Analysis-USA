@@ -21,4 +21,8 @@ The dataset was obtained from the U.S. Department of Health and Human Services. 
 - **Geographic Disparities:** Significant geographic inequalities were observed, with states such as New York, Texas, and California reporting notably higher COVID-19 mortality rates, while states like Alaska and Wyoming had much lower rates.
 - **Seasonal Trends:** The analysis indicated a higher frequency of fatalities during the winter months, suggesting a seasonal pattern in COVID-19 transmission and mortality.
 
+# Visual Analysis: COVID-19 Impact Dashboard
 
+![image](https://github.com/user-attachments/assets/82cb50d8-76b4-4480-8cfe-afc33deb5055)
+
+Tableau link: https://public.tableau.com/app/profile/akansha.rajput8373/viz/Covid-19USdata-AkanshaRajput/COVID-19USData
