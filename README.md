@@ -1,6 +1,9 @@
 # COVID19-Impact-Analysis-USA
 Data Analysis and Predictive Modeling to study COVID-19 impact across age groups, regions, and seasons in the USA.
 
+[
+](https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Ftimesofindia.indiatimes.com%2Ftravel%2Fthings-to-do%2Fusa-may-need-to-extend-social-distancing-till-2022-to-beat-coronavirus%2Farticleshow%2F75166302.cms&psig=AOvVaw0FCqBDknwub2FSRxg0NIEn&ust=1729039420565000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiou4uUj4kDFQAAAAAdAAAAABAg)![image](https://github.com/user-attachments/assets/08231f40-db1b-4116-8762-b264562c4bdd)
+
 # Project Overview
 The COVID-19 outbreak placed immense strain on the U.S. healthcare system, already burdened by workforce shortages. This study addresses challenges related to pre-existing health conditions, age groups, geographic regions, and demographics, aiming to enhance preparedness for future pandemics. Using data from 2020-2023 from the U.S. Department of Health and Human Services, machine learning techniques like Decision Trees, Linear Regression, K-Means clustering, Naïve Bayes, and DBSCAN were applied. Key findings show that older populations and those with pre-existing conditions were most affected, with significant geographic and seasonal patterns. The study underscores the need for adaptive health policies to safeguard vulnerable groups and enhance pandemic readiness, offering valuable insights for future health strategies.
 
